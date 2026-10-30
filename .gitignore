@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local game files and extracted assets
+*.iso
+*.ISO
+*.bad
+*.BAD
+*.bah
+*.BAH
+ATV/
+ATV.zip
